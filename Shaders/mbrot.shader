@@ -8,7 +8,7 @@ uniform int iter;
 void fragment() {
     vec2 z, c;
 
-    c = vec2(1.3333, 1.0) * (UV - 0.5) * scale - center;
+    c = vec2(1.66666, 1.0) * (UV - 0.5) * scale - center;
 
     int i;
     z = c;
