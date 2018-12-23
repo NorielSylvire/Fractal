@@ -12,7 +12,7 @@ Copyright 2018, Fl4v1u5.
 
 *Fractal* is an app that can draw fractals, mathematical structures with N dimensions, where N is a rational or irational number. It was made with Godot Engine.
 
-##Contents
+## Contents
 
 * [Installation](#installation)
 * [Features](#features)
