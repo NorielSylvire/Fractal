@@ -23,7 +23,7 @@ Current version = v0.1
 
 ## Installation
 
-Go to [my personal site's webpage about Fractal](#https://fl4v1u5.wordpress.com/my-software/fl4v1u5-fractal/) and download it for free. It's already compiled for you.
+Go to [my personal site's webpage about Fractal](https://fl4v1u5.wordpress.com/my-software/fl4v1u5-fractal/) and download it for free. It's already compiled for you.
 Also you could give my site a look and test some of my other software.
 
 ## Features
