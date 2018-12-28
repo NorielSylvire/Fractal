@@ -1,0 +1,18 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://Shaders/julia.shader" type="Shader" id=1]
+[ext_resource path="res://Graphics/Textures/Gradients/rainbow_grd.png" type="Texture" id=2]
+
+[resource]
+
+render_priority = 0
+shader = ExtResource( 1 )
+shader_param/c = Vector2( 0.7885, 0 )
+shader_param/a = 0.0
+shader_param/iter = 100
+shader_param/center = Vector2( 1, 0.3333 )
+shader_param/xscale = 6.0
+shader_param/yscale = 4.0
+shader_param/tex = ExtResource( 2 )
+_sections_unfolded = [ "shader_param" ]
+
