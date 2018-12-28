@@ -12,7 +12,7 @@ Copyright 2018, Fl4v1u5.
 
 *Fractal* is an app that can draw fractals, mathematical structures with N dimensions, where N is a rational or irational number. It was made with Godot Engine.
 
-### Current version = v0.1
+Current version = v0.1
 
 ## Contents
 
@@ -23,7 +23,8 @@ Copyright 2018, Fl4v1u5.
 
 ## Installation
 
-For now there is no executable for windows, you can only get the source code, and compile it with Godot Engine.
+Go to [my personal site's webpage about Fractal](#https://fl4v1u5.wordpress.com/my-software/fl4v1u5-fractal/) and download it for free. It's already compiled for you.
+Also you could give my site a look and test some of my other software.
 
 ## Features
 
@@ -73,11 +74,11 @@ Pressing I will show/hide the GUI (Graphic User Interface)
 
 ## Changelog
 
-* initial version:
-** tested and added basic features such as a Mandelbrot Shader (mbrot.shader) and a Julia Shader (julia.shader)
-** tested program's ability to make animations and zoom
-* v0.1:
-** added a GUI that allows non programmer users to easily control the software
+### initial version:
+* tested and added basic features such as a Mandelbrot Shader (mbrot.shader) and a Julia Shader (julia.shader)
+* tested program's ability to make animations and zoom
+### v0.1:
+* added a GUI that allows non programmer users to easily control the software
 
 ### Current version's notes
 
